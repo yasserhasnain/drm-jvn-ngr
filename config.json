@@ -1,6 +1,6 @@
 {
 	"blog": {
-		"blogger_id": "1150817634054132389",
+		"blogger_id": "4057224511893864501",
 		"api_key": "AIzaSyBCHYyAM_Ct_C6bF2t1gkbYRrIKuWv-v80"
 	},
 	"app": {
@@ -12,7 +12,7 @@
 		"redirect_url": ""
 	},
 	"ads": {
-		"ad_status": false,
+		"ad_status": true,
 		"main_ads": "admob",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-5014654803700430",
